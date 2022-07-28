@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/demo_hodace_network/static/css/main.f68abd78.css",
-    "main.js": "/demo_hodace_network/static/js/main.2c1de335.js",
+    "main.js": "/demo_hodace_network/static/js/main.58ca8766.js",
     "static/media/zalo.svg": "/demo_hodace_network/static/media/zalo.74ef2115c7e6f499511fdb6d61f27d63.svg",
     "index.html": "/demo_hodace_network/index.html",
     "main.f68abd78.css.map": "/demo_hodace_network/static/css/main.f68abd78.css.map",
-    "main.2c1de335.js.map": "/demo_hodace_network/static/js/main.2c1de335.js.map"
+    "main.58ca8766.js.map": "/demo_hodace_network/static/js/main.58ca8766.js.map"
   },
   "entrypoints": [
     "static/css/main.f68abd78.css",
-    "static/js/main.2c1de335.js"
+    "static/js/main.58ca8766.js"
   ]
 }
